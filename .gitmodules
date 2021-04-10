@@ -7,3 +7,4 @@
 	path = snakecase
 	url = https://github.com/tazinho/snakecase
 	shallow = true
+	registered = true
